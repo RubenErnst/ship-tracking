@@ -1,0 +1,139 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type
+01/06/2018 00:00:00,Class A,215810000,55.921028,17.320418,Constrained by her draught,0.0,12.5,255.5,256,Unknown,,,Undefined,,,,Undefined, , , ,AIS
+01/06/2018 00:00:00,Class A,219014851,55.075200,8.341003,Under way using engine,0.0,3.2,190.1,196,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,265410000,57.568527,11.405288,Under way using engine,0.0,15.4,252.3,248,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,220012000,56.590177,11.830633,Unknown value,0.0,2.5,182.5,181,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,229630000,53.882500,9.110167,Under way using engine,0.0,0.1,116.0,270,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219423000,54.153983,12.100867,Under way using engine,0.0,0.0,237.7,353,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,578000200,55.246460,13.451590,Under way using engine,0.0,15.3,272.5,274,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266456000,55.017887,12.596732,Under way using engine,-1.1,14.6,176.9,174,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219937000,55.055665,10.614965,Moored,,0.0,260.3,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,265518830,91.000000,181.000000,Unknown value,,,,,Unknown,,SUVI-SIRKKA,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,245473000,57.463773,9.310130,Engaged in fishing,,5.9,227.1,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,236278000,54.809500,16.831000,Under way using engine,,10.1,81.0,79,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219012076,54.209137,13.724255,Restricted maneuverability,0.0,0.1,92.2,54,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,636091104,54.456170,11.707167,Under way using engine,0.0,11.8,293.6,294,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219000543,57.321098,11.124428,Under way using engine,0.0,0.0,41.2,88,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,220378000,55.313527,12.616363,Under way using engine,0.0,17.9,130.6,130,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,210855000,56.763545,7.028318,Under way using engine,0.0,8.6,65.6,65,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,266358000,55.246858,14.313617,Unknown value,,4.8,237.4,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211457860,54.364410,9.819498,Under way using engine,,0.0,0.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,331168000,57.437152,10.545158,Under way using engine,0.0,0.0,189.0,137,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219500000,56.156120,7.906282,Under way sailing,0.0,4.6,9.4,11,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,219014345,91.000000,181.000000,Unknown value,,,,,Unknown,XPE2447,,Sailing,,4,9,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,376384000,54.907267,13.728883,Under way using engine,0.0,8.8,65.0,66,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219783000,57.003992,9.931815,Unknown value,,0.0,239.9,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,265518830,91.000000,181.000000,Unknown value,,,,,Unknown,SA9908,SUVI-SIRKKA,Sailing,,4,12,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,265754490,57.989695,11.539963,Unknown value,0.0,0.1,184.1,266,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266274000,58.011078,11.174045,Under way using engine,0.0,8.8,147.9,152,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219016555,54.876033,11.028683,Under way using engine,0.0,0.0,250.0,250,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,538002652,56.738617,7.737450,Under way using engine,0.0,12.2,209.0,214,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,248659000,56.543027,11.670642,Under way using engine,0.0,16.8,30.9,31,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,265625700,55.624523,13.034332,Under way using engine,0.0,0.0,206.7,262,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266220000,91.000000,181.000000,Unknown value,,,,,9320063,SHZA,ASTINA,Tanker,Category X,20,130,GPS,5.9,FREDERICIA,31/05/2019 04:00:00,AIS
+01/06/2018 00:00:00,Class A,219005901,56.368363,8.121452,Under way using engine,0.0,0.0,31.5,270,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2190066,56.530063,8.166943,Unknown value,,,,,Unknown,,,Undefined,,,,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,273414400,54.960933,18.331150,Under way using engine,0.0,12.5,266.0,262,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,256391000,58.276027,11.267297,Under way using engine,0.0,9.8,230.3,230,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2655146,56.789980,12.937965,Unknown value,,,,,Unknown,,,Undefined,,,,Surveyed,,,,AIS
+01/06/2018 00:00:00,Class A,265001000,58.601482,10.714043,Under way using engine,0.0,14.4,177.2,176,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266050000,57.732737,11.672162,Engaged in fishing,0.0,0.0,148.0,337,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,250515000,91.000000,181.000000,Unknown value,,,,,9291717,EIPL,ARKLOW ROVER,Cargo,,13,90,GPS,6.3,VEJLE,01/06/2018 10:00:00,AIS
+01/06/2018 00:00:00,Class A,219012703,54.149410,13.652645,Moored,0.0,0.0,229.0,138,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211560830,53.582373,9.602147,Under way using engine,,0.0,177.3,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2579999,55.447833,8.592098,Unknown value,,,,,Unknown,,,Undefined,,,,Internal,,,,AIS
+01/06/2018 00:00:00,Class A,218321000,55.701715,4.887010,Under way using engine,45.7,3.0,342.7,347,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,261002420,54.180387,15.552067,Engaged in fishing,0.0,0.0,181.9,190,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2655185,56.226935,14.775327,Unknown value,,,,,Unknown,,,Undefined,,,,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,220226000,91.000000,181.000000,Moored,,,,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,212048000,58.293392,9.670302,Under way using engine,0.0,12.5,34.2,35,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,538090271,57.615333,9.448000,Under way using engine,5.4,18.1,71.0,71,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,636014902,56.364317,11.446883,Under way using engine,0.0,12.8,209.0,206,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,538006773,57.564750,11.645130,At anchor,0.0,0.0,336.6,190,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,218439000,57.713422,10.587235,Under way using engine,0.0,0.0,332.9,72,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,305979000,56.118433,11.239832,Under way using engine,0.0,8.8,264.6,263,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211187000,54.473087,9.046008,Engaged in fishing,,0.0,,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,219005863,56.262367,12.079063,Unknown value,,2.9,112.6,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219022000,57.121730,8.596995,Engaged in fishing,0.0,0.0,208.0,329,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,219007101,56.534255,10.712137,Unknown value,,0.0,34.1,34,Unknown,,HENRIETTE RS101,Fishing,,4,8,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,576227000,54.304783,13.836715,Under way using engine,0.0,2.4,29.0,40,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219023779,57.433442,10.539192,Unknown value,,0.0,346.3,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,246605000,57.808062,9.054517,Under way using engine,0.0,12.7,263.7,264,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219012162,55.060675,10.620152,Under way using engine,,0.0,200.1,302,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,246773000,56.690245,8.181488,Restricted maneuverability,16.1,0.3,281.1,158,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219002416,56.154080,10.217783,Under way sailing,,0.0,82.0,216,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2579999,55.508990,7.874820,Unknown value,,,,,Unknown,,,Undefined,,,,Internal,,,,AIS
+01/06/2018 00:00:00,Class A,305896000,54.497010,10.291528,Under way using engine,0.0,6.6,207.4,204,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,273510000,54.586088,11.159978,Under way using engine,0.0,6.2,116.3,113,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219615000,56.445833,11.018333,Under way using engine,-0.4,6.7,237.0,227,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219000818,55.270360,9.889280,Under way using engine,0.0,0.0,356.2,261,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,246293000,54.823880,10.834677,Under way using engine,-1.1,18.7,2.8,359,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2190071,57.110037,8.648280,Unknown value,,,,,Unknown,,,Undefined,,,,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,219022047,55.473213,8.423100,Under way using engine,-2.2,0.0,143.7,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219015595,57.591907,9.956027,Unknown value,,0.0,0.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,273457420,55.225275,16.405175,Under way using engine,251.1,10.6,281.1,282,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219001959,55.471753,8.423850,Under way using engine,0.0,0.0,21.8,195,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,355420000,55.800667,17.952500,Under way using engine,0.0,12.5,273.0,272,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266145000,57.732617,11.672200,Engaged in fishing,,0.0,178.8,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,265687320,55.615307,12.989445,Unknown value,,0.0,0.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,211730940,91.000000,181.000000,Unknown value,,,,,Unknown,,SINDBAD,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,235077223,91.000000,181.000000,Unknown value,,,,,Unknown,2DAE4,,Sailing,,4,12,Undefined,,,,AIS
+01/06/2018 00:00:00,Base Station,2190068,56.447253,10.945872,Unknown value,,,,,Unknown,,,Undefined,,,,GPS,,,,AIS
+01/06/2018 00:00:00,Base Station,2614800,53.981450,14.580353,Unknown value,,,,,Unknown,,,Undefined,,,,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,219335000,55.058987,10.291213,At anchor,,0.3,333.5,66,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,AtoN,992111840,54.612913,12.629968,Unknown value,,,,,Unknown,,WIND FARM BALTIC1NW,Undefined,,60,60,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,219003826,55.972477,11.368508,Under way using engine,,0.1,175.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,215871000,57.806117,9.831218,Under way using engine,0.0,13.9,238.9,239,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219006157,57.533170,11.126537,Engaged in fishing,0.0,2.7,252.6,230,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,259186000,54.689217,12.434500,Under way using engine,0.0,15.2,237.6,239,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219783000,57.004010,9.931855,Unknown value,0.0,0.0,178.5,15,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211243240,54.373330,10.990385,Under way using engine,,0.0,0.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219005995,56.005007,8.120105,Engaged in fishing,0.0,0.0,0.0,156,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,261003060,54.178403,15.555845,Unknown value,,0.0,0.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,209488000,56.512060,11.960738,Under way using engine,0.0,10.2,167.4,163,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211215170,54.270800,11.550788,Under way sailing,0.0,6.2,147.9,142,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,258216000,58.685218,10.244468,Engaged in fishing,0.0,2.0,319.6,325,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,245471000,55.760158,15.541070,Under way using engine,5.4,9.7,239.4,239,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,999999000,91.000000,181.000000,Unknown value,,,,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,265580750,56.199300,12.546147,Unknown value,,0.0,300.4,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,AtoN,992441004,53.063167,4.720333,Unknown value,,,,,Unknown,,YBY Q(9) 15S,Undefined,,2,2,Surveyed,,,,AIS
+01/06/2018 00:00:00,AtoN,992191500,55.576482,4.618232,Unknown value,,,,,Unknown,,DAGMAR,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219023870,57.492875,10.504353,Under way using engine,,0.0,271.4,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219019094,56.483767,11.573600,Under way using engine,0.0,19.3,208.5,208,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,356864000,91.000000,181.000000,Unknown value,,,,,9065443,3FFA6,MSC ROSSELLA,Cargo,,32,243,GPS,8.6,LTKLJ,02/06/2018 03:00:00,AIS
+01/06/2018 00:00:00,Class A,232005533,56.987112,11.775075,Under way using engine,0.0,11.9,340.0,339,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211755650,57.122377,8.597752,Under way using engine,0.0,0.0,155.0,329,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,220368000,56.000402,8.130763,Under way using engine,0.0,0.0,285.8,210,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,245391000,55.501442,14.707612,Under way using engine,0.0,12.7,234.7,233,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,220043000,57.454167,8.714933,Under way using engine,,8.9,12.0,9,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,257222000,53.966857,9.257832,Under way using engine,0.0,8.6,38.2,40,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,231024000,55.375332,14.458510,Under way using engine,0.0,10.7,220.8,218,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,255805829,54.866637,16.988392,Under way using engine,2.2,9.9,254.0,254,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,265526850,58.112880,11.366715,Under way using engine,,0.0,246.3,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219065000,56.453052,7.748010,Engaged in fishing,0.0,8.1,114.6,113,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219018405,57.618410,10.914065,Engaged in fishing,,2.5,201.0,198,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219000126,55.330410,11.130478,Unknown value,0.0,0.0,315.2,336,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219002358,55.211507,11.197872,Under way using engine,0.0,0.0,119.1,277,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219000643,55.260187,9.730295,Under way using engine,0.0,0.0,133.5,284,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,220304000,56.001950,8.127420,Engaged in fishing,0.0,0.0,213.2,254,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219001587,56.127095,12.310230,Engaged in fishing,0.0,0.0,,247,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,230987350,55.971297,12.634207,Under way using engine,0.0,8.6,177.2,177,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,538007299,57.671313,8.741032,Under way using engine,0.0,14.3,59.3,60,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,246639000,55.828165,16.026093,Under way using engine,0.0,10.2,58.6,57,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class B,219004472,57.615138,10.006758,Unknown value,,7.7,60.8,60,Unknown,,HG 27 NEPTUN,Fishing,,4,12,GPS,,,,AIS
+01/06/2018 00:00:00,Class A,265660390,57.645288,11.858497,Under way using engine,0.0,0.1,280.6,287,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219005465,55.059178,10.620057,Under way using engine,,0.0,151.7,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,374356000,54.613482,12.374112,Under way using engine,0.0,14.9,53.5,53,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266331000,55.995652,11.031013,Under way using engine,0.0,17.2,207.6,206,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,257479000,54.420140,10.211445,Under way using engine,-5.4,9.3,196.6,196,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,266442000,57.433785,10.549743,Under way using engine,0.0,3.0,303.3,294,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,248102000,56.489850,5.795767,Under way using engine,0.0,13.3,59.0,60,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,230351000,57.719920,10.361320,Under way using engine,0.0,15.4,68.9,69,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,AtoN,992111924,55.005333,13.151633,Unknown value,,,,,Unknown,,BALTIC2 WINDFARM NW,Undefined,,12,8,Surveyed,,,,AIS
+01/06/2018 00:00:00,Class A,219006023,57.320833,11.126517,Unknown value,,0.0,0.0,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219000187,56.953948,8.694223,Under way using engine,0.0,0.0,326.0,179,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,249998000,54.844200,13.242998,Under way using engine,0.0,7.7,71.8,69,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219381000,55.477332,8.416990,Under way using engine,0.0,0.0,0.0,331,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,265522730,55.993232,12.744515,Unknown value,0.0,0.1,330.3,255,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,211168930,53.526167,9.927667,Under way using engine,,0.0,279.3,,Unknown,,,Undefined,,,,Undefined,,,,AIS
+01/06/2018 00:00:00,Class A,219023648,55.860993,10.991620,Under way using engine,,20.6,9.2,8,Unknown,,,Undefined,,,,Undefined,,,,AIS
