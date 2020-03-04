@@ -16,18 +16,6 @@ ui <- bootstrapPage(
   leafletOutput("mapPlot", height = "100%", width = "100%"),
   # Sidebar panel for inputs ----
   absolutePanel(top = 150, left = 10,
-    dateRangeInput('dateRange',
-      label = "Select the desired date range",
-      start = Sys.Date() - 3,
-      end = Sys.Date() + 3,
-      min = Sys.Date() - 10,
-      max = Sys.Date() + 10,
-      separator = " to ",
-      format = "dd/mm/yy",
-      startview = 'year',
-      language = 'en',
-      weekstart = 1
-    ),
     selectizeInput(
       "vName", "Search by Vessel Name",
       choices = AIS_Name_idx,
