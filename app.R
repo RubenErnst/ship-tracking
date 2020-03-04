@@ -1,7 +1,8 @@
-library("shiny")
-library("dplyr")
-library("leaflet")
-library("htmltools")
+library(shiny)
+library(dplyr)
+library(leaflet)
+library(htmltools)
+library(RSQLite)
 
 AISdb <- DBI::dbConnect(RSQLite::SQLite(), "~/AIS_MAIN_DB.sqlite")
 
